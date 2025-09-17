@@ -1,5 +1,6 @@
 C Programming Practice Repository
-This repository documents my journey of learning \*\*C programming fundamentals\*\* through structured, hands-on exercises. The goal is to build strong foundations in programming, problem-solving, and algorithmic thinking — starting from zero technical background.  
+
+This repository documents my journey of learning `C programming fundamentals` through structured, hands-on exercises. The goal is to build strong foundations in programming, problem-solving, and algorithmic thinking — starting from zero technical background.  
 
 🎯 Purpose  
 - Develop practical programming skills from the ground up.  
@@ -9,7 +10,7 @@ This repository documents my journey of learning \*\*C programming fundamentals\
 
 🧠 Skills Being Developed
 
-Core Programming Concepts\*\*  
+Core Programming Concepts  
 - Variables, data types, operators, control flow  
 - Functions, modularity, recursion
 
